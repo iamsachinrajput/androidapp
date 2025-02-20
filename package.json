@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react-native-web": "^0.19.13"
+  },
+  "scripts": {
+    "web": "react-native-web start"
+}
+
+}
